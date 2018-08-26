@@ -28,7 +28,7 @@ export.sh
 ---------
 このディレクトリの設定ファイルを反映させる。反映させるには SIP: System Integrity Protection (rootless mode) を無効化する必要がある。
 
-### 確認方法 ###
+### SIP の確認方法 ###
 
 SIP の有効・無効を確認する。
 
