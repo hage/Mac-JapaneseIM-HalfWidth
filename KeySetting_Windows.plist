@@ -11,12 +11,16 @@
 			<key>&apos; &apos;</key>
 			<dict>
 				<key>command</key>
-				<string>contextual_space</string>
+				<string>direct_input</string>
+				<key>character</key>
+				<string> </string>
 			</dict>
 			<key>shift+&apos; &apos;</key>
 			<dict>
 				<key>command</key>
-				<string>contextual_space_reverse</string>
+				<string>direct_input</string>
+				<key>character</key>
+				<string>　</string>
 			</dict>
 			<key>delete:</key>
 			<dict>
