@@ -1295,12 +1295,12 @@
 			<key>option+&apos;[&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>［</string>
+				<string> [</string>
 			</dict>
 			<key>shift+option+&apos;[&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>｛</string>
+				<string> {</string>
 			</dict>
 			<key>option+&apos;゜&apos;</key>
 			<dict>
@@ -1325,17 +1325,17 @@
 			<key>option+&apos;]&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>］</string>
+				<string>]</string>
 			</dict>
 			<key>shift+option+&apos;]&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>｝</string>
+				<string>}</string>
 			</dict>
 			<key>&apos;|&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>｜</string>
+				<string>|</string>
 			</dict>
 			<key>option+&apos;む&apos;</key>
 			<dict>
@@ -1360,7 +1360,7 @@
 			<key>&apos;!&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>！</string>
+				<string>!</string>
 			</dict>
 			<key>&apos;&quot;&apos;</key>
 			<dict>
@@ -1375,22 +1375,22 @@
 			<key>&apos;#&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>＃</string>
+				<string>#</string>
 			</dict>
 			<key>&apos;$&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>＄</string>
+				<string>$</string>
 			</dict>
 			<key>&apos;%&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>％</string>
+				<string>%</string>
 			</dict>
 			<key>&apos;&amp;&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>＆</string>
+				<string>&amp;</string>
 			</dict>
 			<key>&apos;&apos;&apos;</key>
 			<dict>
@@ -1405,7 +1405,7 @@
 			<key>&apos;(&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>（</string>
+				<string> (</string>
 			</dict>
 			<key>option+unshift+&apos;(&apos;</key>
 			<dict>
@@ -1420,7 +1420,7 @@
 			<key>&apos;)&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>）</string>
+				<string>)</string>
 			</dict>
 			<key>option+unshift+&apos;)&apos;</key>
 			<dict>
@@ -1435,22 +1435,22 @@
 			<key>&apos;*&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>＊</string>
+				<string>*</string>
 			</dict>
 			<key>&apos;+&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>＋</string>
+				<string>+</string>
 			</dict>
 			<key>option+&apos;-&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>－</string>
+				<string>-</string>
 			</dict>
 			<key>&apos;:&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>：</string>
+				<string>:</string>
 			</dict>
 			<key>option+&apos;:&apos;</key>
 			<dict>
@@ -1460,7 +1460,7 @@
 			<key>&apos;;&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>；</string>
+				<string>;</string>
 			</dict>
 			<key>option+&apos;;&apos;</key>
 			<dict>
@@ -1475,42 +1475,42 @@
 			<key>&apos;&lt;&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>＜</string>
+				<string>&lt;</string>
 			</dict>
 			<key>&apos;=&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>＝</string>
+				<string>=</string>
 			</dict>
 			<key>&apos;&gt;&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>＞</string>
+				<string>&gt;</string>
 			</dict>
 			<key>&apos;?&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>？</string>
+				<string>?</string>
 			</dict>
 			<key>&apos;@&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>＠</string>
+				<string>@</string>
 			</dict>
 			<key>&apos;^&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>＾</string>
+				<string>^</string>
 			</dict>
 			<key>&apos;_&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>＿</string>
+				<string>_</string>
 			</dict>
 			<key>&apos;`&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>｀</string>
+				<string>`</string>
 			</dict>
 			<key>&apos;{&apos;</key>
 			<dict>
@@ -1520,7 +1520,7 @@
 			<key>shift+option+&apos;{&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>｛</string>
+				<string>{</string>
 			</dict>
 			<key>&apos;}&apos;</key>
 			<dict>
@@ -1530,7 +1530,7 @@
 			<key>shift+option+&apos;}&apos;</key>
 			<dict>
 				<key>character</key>
-				<string>｝</string>
+				<string>}</string>
 			</dict>
 			<key>&apos;~&apos;</key>
 			<dict>
