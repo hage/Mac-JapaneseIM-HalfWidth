@@ -6,7 +6,7 @@ Mac 標準の日本語入力におけるキーの割り当てを変更するた�
 * `KeySetting_Default.plist`
 * `KeySetting_Windows.plist`
 
-これらを編集、git によるバージョン管理、
+これらを編集、git によるバージョン管理、置き換え等を行うユーティリティなどを収めている。
 
 cat-dir.sh
 ----------
@@ -26,7 +26,7 @@ import.sh
 
 export.sh
 ---------
-このディレクトリの設定ファイルを反映させる。反映させるには SIP: System Integrity Protection (rootless mode) を無効化する必要がある。
+このディレクトリの設定ファイルを反映させる。反映させるには SIP: System Integrity Protection (rootless mode) を無効化する必要がある。さらに、root 権限で起動する必要がある。
 
 ### SIP の確認方法 ###
 
